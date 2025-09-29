@@ -1,0 +1,1 @@
+create_clock -period 10.000 -name clk_100MHz [get_ports s_axis_aclk]
