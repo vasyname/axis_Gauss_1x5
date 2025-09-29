@@ -1,0 +1,6 @@
+*.jou
+*.log
+*.xpr
+axis*/
+/vv_index.xml
+*.zip
